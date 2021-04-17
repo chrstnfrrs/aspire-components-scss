@@ -8,5 +8,6 @@ import './styles/margin.scss';
 import './styles/md-background-color.scss';
 import './styles/md-color.scss';
 import './styles/padding.scss';
+import './styles/width.scss';
 
 export default function noop() {}
