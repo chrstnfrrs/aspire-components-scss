@@ -185,14 +185,14 @@
 .height-full {
   height: 100%;
 }
-.height-50vw {
-  height: 100vw;
+.height-50vh {
+  height: 50vh;
 }
-.height-75vw {
-  height: 100vw;
+.height-75vh {
+  height: 75vh;
 }
-.height-100vw {
-  height: 100vw;
+.height-100vh {
+  height: 100vh;
 }
 
 // HEIGHT MIN
@@ -382,14 +382,14 @@
 .minHeight-full {
   min-height: 100%;
 }
-.minHeight-50vw {
-  min-height: 100vw;
+.minHeight-50vh {
+  min-height: 50vh;
 }
-.minHeight-75vw {
-  min-height: 100vw;
+.minHeight-75vh {
+  min-height: 75vh;
 }
-.minHeight-100vw {
-  min-height: 100vw;
+.minHeight-100vh {
+  min-height: 100vh;
 }
 
 // HEIGHT MAX
@@ -579,9 +579,12 @@
 .maxHeight-full {
   max-height: 100%;
 }
-.maxHeight-50vw {
-  max-height: 100vw;
+.maxHeight-50vh {
+  max-height: 100vh;
 }
-.maxHeight-75vw {
-  max-height: 100vw;
+.maxHeight-75vh {
+  max-height: 75vh;
+}
+.maxHeight-100vh {
+  max-height: 100vh;
 }
